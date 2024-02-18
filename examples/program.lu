@@ -1,0 +1,7 @@
+fn test a int, b int: c: int do
+    a + b
+end
+
+fn main do
+    putStr test 1 2
+end
